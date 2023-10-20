@@ -65,6 +65,7 @@ Now its time to run our React app frontend. Use the following command inside the
 ```bash
 npm start
 ```
+<img width="743" alt="image" src="https://github.com/dheerajkaushik/dchat/assets/94304859/2b2f70d7-d4e2-445a-a01a-21cd08d9228d">
 
 
 ## About the Author(s)
